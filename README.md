@@ -106,4 +106,4 @@ sorted() - сортировка списка в порядке возраста�
 # GITHUB 30 CHALLENGE
 git add
 git commit
-git piush origin main
+git push origin main
