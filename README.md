@@ -98,6 +98,7 @@ sorted() - сортировка списка в порядке возраста�
  very soon
  nah
  no chance
+ I GOT IT
 
 # GITHUB 30 CHALLENGE
 git add
