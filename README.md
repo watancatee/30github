@@ -102,6 +102,7 @@ sorted() - сортировка списка в порядке возраста�
  finally
  soon enough for challenge to be compleete
 why
+yup
 # GITHUB 30 CHALLENGE
 git add
 git commit
