@@ -101,6 +101,7 @@ sorted() - сортировка списка в порядке возраста�
  I GOT IT
  finally
  soon enough for challenge to be compleete
+ 1 day tp gp
 why
 yup
 # GITHUB 30 CHALLENGE
