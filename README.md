@@ -104,6 +104,7 @@ sorted() - сортировка списка в порядке возраста�
  1 day tp gp
 why
 yup
+FINISHED!!
 # GITHUB 30 CHALLENGE
 git add
 git commit
